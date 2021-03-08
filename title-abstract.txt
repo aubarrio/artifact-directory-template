@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+NBA Seeds with Graph Neural Networks
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The NBA contains many challenges when attempting to make predictions. The performance of a team in the NBA is difficult because many things can happen over the course of 81 games. Our analysis attempts to produce accurate results by exploiting the natural structure of the NBA league and data of previous player stats. Our analysis begins with identifying the players on each roster to create an aggregated stat for each team, then we will take advantage of the schedules of each team to learn the unique performance of a team against every other team. Leveraging the features and the schedule of the teams, we expect to be able to make decent predictions of NBA seedings before a season starts.
